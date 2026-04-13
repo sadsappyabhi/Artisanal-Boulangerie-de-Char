@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.mocalabs</groupId>
-	<artifactId>Artisanal Boulangerie de Char</artifactId>
+	<artifactId>abc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
